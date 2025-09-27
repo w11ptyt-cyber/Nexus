@@ -1,0 +1,2 @@
+import os
+bot.run(os.getenv("MTQyMTQwNTM3MTY1MzgyMDQzNw.GGFoE9.SQBH8tGzsQnexwmoqP2Ip-iwO0-Z82oPdlngHI"))
